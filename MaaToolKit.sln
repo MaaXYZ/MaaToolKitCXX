@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaaToolKit", "source\MaaToolKit\MaaToolKit.vcxproj", "{0FCAD0A8-F765-405A-AE0B-2905296BC619}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B355434-4C60-40E6-B11F-12E1CF2EF271}"
+	ProjectSection(SolutionItems) = preProject
+		.clang-format = .clang-format
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCAD0A8-F765-405A-AE0B-2905296BC619}.Debug|x64.ActiveCfg = Debug|x64
+		{0FCAD0A8-F765-405A-AE0B-2905296BC619}.Debug|x64.Build.0 = Debug|x64
+		{0FCAD0A8-F765-405A-AE0B-2905296BC619}.Release|x64.ActiveCfg = Release|x64
+		{0FCAD0A8-F765-405A-AE0B-2905296BC619}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5EFC6EC-F885-4E20-AAE1-0A3A6D31262C}
+	EndGlobalSection
+EndGlobal
